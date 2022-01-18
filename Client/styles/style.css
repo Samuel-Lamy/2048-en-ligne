@@ -1,0 +1,83 @@
+.case2048{
+    margin-left: 7px;
+    margin-right: 7px;
+    height: 100%;
+    width: 100%;
+    border-radius: 9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row2048{
+    margin-bottom: 15px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jeu2048{
+    height: 70vh;
+    width: 70vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.coul-0{
+    background-color: #b9b9b9;
+}
+
+.coul-2{
+    background-color: #ffe9d4;
+}
+
+.coul-4{
+    background-color: #ffe0c2;
+}
+
+.coul-8{
+    background-color: #f2b179;
+}
+
+.coul-16{
+    background-color: #f59563;
+}
+
+.coul-32{
+    background-color: #f65e3b;
+}
+
+.coul-64{
+    background-color: #f65e3b;
+}
+
+.coul-128{
+    background-color: #edcf72;
+}
+
+.coul-256{
+    background-color: #edcc61;
+}
+
+.coul-512{
+    background-color: #edc850;
+}
+
+.coul-1024{
+    background-color: #edc53f;
+}
+
+.coul-2048{
+    background-color: #edc22e;
+}
+
+.div-btn{
+    width: 100%;
+}
+
+.bouton{
+    width: 100%;
+    margin-left: 10px;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
